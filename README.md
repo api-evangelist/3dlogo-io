@@ -66,7 +66,7 @@
 
 3DLogo.io provides a free browser-based 3D logo maker that lets users extrude a logo mark or typed name into a 3D render with chrome, gold, or glass finishes. Users can export their creations as PNG, GLB, or MP4 files without signing up, making it an easy tool for quick branding and graphic design.
 
-**Areas:** 3D · Logo · Design · Graphics · FreeTool · Company
+**Areas:** 3D · Logo · Design · Graphics · Company
 
 ## 3DLogo.io on APIs.io
 
@@ -80,30 +80,36 @@ Everything profiled for 3DLogo.io is published on APIs.io rather than in this re
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [3dlogo-io-mcp.yml](https://apis.io/servers/3dlogo-io/3dlogo-io-mcp-yml/)
+
 #### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [3Dlogo Io Authentication](https://apis.io/security/3dlogo-io/3dlogo-io-authentication/)
-- [3Dlogo Io Domain Security](https://apis.io/security/3dlogo-io/3dlogo-io-domain-security/)
+- [3DLogo.io Authentication](https://apis.io/security/3dlogo-io/3dlogo-io-authentication/)
+- [3DLogo.io Domain Security](https://apis.io/security/3dlogo-io/3dlogo-io-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [3Dlogo Io Scopes](https://apis.io/scopes/3dlogo-io/3dlogo-io-scopes/)
+- [3DLogo.io Scopes](https://apis.io/scopes/3dlogo-io/3dlogo-io-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [3Dlogo Io Plans Pricing](https://apis.io/plans/3dlogo-io/3dlogo-io-plans-pricing/)
+- [3DLogo.io Plans Pricing](https://apis.io/plans/3dlogo-io/3dlogo-io-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [3Dlogo Io Rate Limits](https://apis.io/rate-limits/3dlogo-io/3dlogo-io-rate-limits/)
+- [3DLogo.io Rate Limits](https://apis.io/rate-limits/3dlogo-io/3dlogo-io-rate-limits/)
 
 ## Where to find this API
 
@@ -119,18 +125,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 26.5** — thin · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 25.6** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
 | Discoverability | 66.7 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 15.8 |
+| Operational transparency | 14.3 |
 | Developer ergonomics | 4.8 |
-| Access clarity | 73.2 |
+| Access clarity | 74.5 |
 
-**Agent readiness 24.3** — agent-aware
+**Agent readiness 27.5** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -145,7 +151,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | documented (partial credit) |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -155,8 +161,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | yes |
 
-**Regulatory alignment 29.4** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 23.5** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/3dlogo-io/](https://apis.io/providers/3dlogo-io/).
 
